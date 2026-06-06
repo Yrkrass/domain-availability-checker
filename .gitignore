@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+.env
+/.codex
+/.cursor/
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+Homestead.json
+Homestead.yaml
+Thumbs.db
